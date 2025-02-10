@@ -10,7 +10,11 @@
 ***Functional:***
 
 - See products
-- Buy products selection of what type of ties, guest checkout, payment system. 
+- Buy products
+- Selection of what type of ties
+- Guest checkout
+- Payment system
+- Add to cart then continue shopping 
 
 ***Non-Functional:***
 
