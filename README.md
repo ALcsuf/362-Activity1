@@ -3,7 +3,7 @@
 5 non functional
 1 vision -->
 
-# Fine Tie
+# Tied and True
 
 - **Vison:** For businessmen and professionals who are constantly on the move with meetings and events, making a good first impression is crucial. Tied and True introduces soft, silk ties that bring a sleek look to the workplace with a touch of individuality with customizable ties. Our product is easy to wash and still looks new after rough days at work.
 
