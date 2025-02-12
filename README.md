@@ -39,3 +39,6 @@
 5. fill in billing address
 6. system display corfirm messege
 7. send email confirm 
+
+
+[tiediagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=tie.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1FhogQmoa2IANybEPgLn_wDMtBLHMW6bx%26export%3Ddownload)
