@@ -34,4 +34,4 @@
 |Main| 1. system displays list of ties customer choose ties <br> 2. customer choose colors <br> 3. customer pay <br> 4. system take to pay method <br> 5. fill in billing address <br> 6. system display corfirm messege <br> 7. send email confirm <br>
 
 
-![tiediagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=tie.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1FhogQmoa2IANybEPgLn_wDMtBLHMW6bx%26export%3Ddownload)
+![tiediagram](tied.drawio.png)
