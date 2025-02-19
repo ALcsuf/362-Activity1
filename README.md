@@ -9,33 +9,35 @@
 
 ***Functional:***
 
-1. See products
-    - The website should display products with images, descriptions, and prices.
-2. Buy products
+1. FR-01: See Products
+    - After landing on the website, it should display products with images, descriptions, and prices.
+2. FR-02: Buy Products
     - The website should allow users to purchase items through a secure checout process.
-3. Selection of what type of ties
+3. FR-03: Selection of what type of ties
     - Users should be able to filter or browse ties based on type, color, or style.
-4. Guest checkout
+4. FR-04: Guest Checkout
     - Users should have the option to make purchases without creating an account.
-5. Login
+5. FR-05: Login
     - Users should have an option to create and account or login in order to checkout faster.
-6. Payment system
+6. FR-06: Payment System
     - Payments should be processed using credit/debit cards, PayPal, etc.
-7. Add to cart then continue shopping
+7. FR-07: Add to cart then continue shopping
     - The website should allow users to add items to a cart and continue browsing before checking out.
-8. Shopping cart
+8. FR-08: Shopping Cart
     - Users should be able to view the items they saved to buy later at any time.
 
 ***Non-Functional:***
 
-1. Performance
+1. NFR-01: Performance
     - The homepage, product listings, and cart should load in less than two seconds.
-2. Accessibility
+2. NFR-02: Accessibility
     - The website should be screen-reader friendly and conform to WCAG standards.
-3. Modible Friendly UI/UX
+3. NFR-03: Modible Friendly UI/UX
     - The website should be able to conform to mobile devices seamlessly.
-4. Scalability
+4. NFR-04: Scalability
     - The website should be able to handle 100+ users without lagging.
+5. NFR-05: Website Security
+    - Website should prevent users' info from being taken
 
 ## Use case:
 
