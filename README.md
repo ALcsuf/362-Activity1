@@ -10,24 +10,34 @@
 ***Functional:***
 
 - See products
+    - The website should display products with images, descriptions, and prices.
 - Buy products
+    - The website should allow users to purchase items through a secure checout process.
 - Selection of what type of ties
+    - Users should be able to filter or browse ties based on type, color, or style.
 - Guest checkout
+    - Users should have the option to make purchases without creating an account.
 - Payment system
-- Add to cart then continue shopping 
+    - Payments should be processed using credit/debit cards, PayPal, etc.
+- Add to cart then continue shopping
+    - The website should allow users to add items to a cart and continue browsing before checking out.
 
 ***Non-Functional:***
 
-- Coupons
-- Autofill related productin query
-- Sorting products by price
-- Sorting by specification
-- Remember past selection when logged out
+- Performance
+    - The homepage, product listings, and cart should load in less than two seconds.
+- Accessibility
+    - The website should be screen-reader friendly and conform to WCAG standards.
+- Modible Friendly UI/UX
+    - The website should be able to conform to mobile devices seamlessly.
+- Scalability
+    - The website should be able to handle 100+ users without lagging.
 
 ## Use case:
 
 | Name: | Purchasing a tie |
 | ----------- | ----------- |
+| ID | S1 |
 | Primary actor | Customer |
 | Preconditions | Customer is on the website |
 | Postconditions | Customer completes their purchase |
